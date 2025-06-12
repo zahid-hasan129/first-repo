@@ -1,6 +1,5 @@
 #MD Zahid Hasan#
-| skills | duration of experience |
-| ________________|_________________ |
-| HTML | 4 years |
-| _______________|___________________ |
-| CSS | 4 years |
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1    | Data     | More     |
+| Row 2    | Data     | More     |
